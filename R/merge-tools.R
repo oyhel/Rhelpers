@@ -10,7 +10,7 @@
 
 #' @return merged data frame
 
-#' @export
+#' @export merge.with.order
 
 merge.with.order <- function(x,y, ..., sort = F, keep_order)
 {
